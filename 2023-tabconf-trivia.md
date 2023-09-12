@@ -7,11 +7,11 @@ This trivia took place on September 9th during TABConf 2023. The first place pri
 5. Bonus Question: Who is the author of this superseded BIP?
 6. What is the protocol that inspired Stratum v2?
 7. List one moderator of the bitcoin-dev Mailing List.
-8. This of these PoW coins experienced a 51% attack in 2015.
+8. Which of these PoW coins experienced a 51% attack in 2015.
 9. How many bytes are saved by using low-r values in signatures?
 10. “Start collecting tokens now” – Where is this quote found in early Bitcoin history?
 11. James Zhong, the Silk Road hacker, stored their Bitcoin in a tin branded with this popular snack.
-12. In BIP32 (and cryptography more widely), what does the acronym CKD stands for? 
+12. In BIP32 (and cryptography more widely), what does the acronym CKD stand for? 
 13. This is the rapper name of the partner of the Bitfinex hacker.
 14. Zhu Tong was the identity of an individual who operated (and later scammed) users of this exchange.
 15. The late Tamás Blummer ran a company with this name. It was later acquired by Digital Asset Holdings.
